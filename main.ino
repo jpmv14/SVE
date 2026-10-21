@@ -8,6 +8,7 @@
 
 
 void setup(){
+  Wire.begin(SDA, SCL);
 }
 
 void loop(){
