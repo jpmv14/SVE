@@ -13,7 +13,7 @@
    - [] Adicionar funções que faltam
    - [] Guardar os dados em SD
    - [x] Implementar os estados de voo
-   - [] Otimizar o código para I2C
+   - [x] Otimizar o código para I2C
    - [] QUANDO IMPLEMENTADO remover setup() e loop() e remover as travas geradas pelas funções nos outros sensores
 */
 
