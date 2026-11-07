@@ -1,0 +1,2 @@
+- [] Trocar o MPU6050 por LSM6DS3
+- [] Terminar a integração do acelerômetro ao ```main.ino```
