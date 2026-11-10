@@ -1,2 +1,4 @@
 - [] Trocar o MPU6050 por LSM6DS3
-- [] Terminar a integração do acelerômetro ao ```main.ino```
+- [] Terminar o código inicial dos sensores
+- [] Terminar a integração dos sensores ao ```main.ino```
+- [] Definir um modelo de estrutura de dados para escrita na memória
